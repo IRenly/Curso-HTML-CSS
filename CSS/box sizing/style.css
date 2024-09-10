@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background: red;
+    margin: 10px;
+}
+
+.box-default{
+    padding: 25px;
+    border: 10px solid black;
+}
+
+.box-new{
+    box-sizing: border-box;
+    padding: 25px;
+    border: 10px solid black;
+
+}

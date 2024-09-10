@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "sebastian";
+    src: url(../fonts/Montserrat-ExtraBold.ttf) format(truetype);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "sebastian";
+    src: url(../fonts/Montserrat-BoldItalic.ttf) format(truetype);
+    font-weight: 500;
+}
+
+
+@font-face {
+    font-family: "sebastian";
+    src: url(../fonts/Montserrat-Light.ttf) format(truetype);
+    font-weight: 100;
+}

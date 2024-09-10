@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+.formulario{
+    background: red;
+    padding: 15px;
+    font-family: montserrat;
+}
+
+.formulario_input{
+    padding: 10px;
+    width: 90%;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-family: montserrat;
+    
+}
+h1{
+    color: white;
+
+}
+
+.box{
+    background: red;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
